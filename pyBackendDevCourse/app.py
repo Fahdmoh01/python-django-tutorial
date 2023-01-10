@@ -1,3 +1,4 @@
+import pymodules
 print('Create account now')
 username = input('Enter username: ')
 password = input('Enter password: ')
@@ -14,3 +15,4 @@ if username == username2 and password == password2:
 else:
 	print('invalid credentials')
 
+pymodules.printfunction()

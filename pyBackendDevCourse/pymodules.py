@@ -1,0 +1,2 @@
+def printfunction():
+	print('hi')
